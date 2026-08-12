@@ -48,4 +48,9 @@
 <text x="320" y="329" fill="#35E08F" opacity=".45" font-weight="bold">B</text>
 <text x="344" y="501" fill="#35E08F" opacity=".18" font-size="18" font-weight="bold">B</text>
 <text x="344" y="501" fill="#35E08F" opacity=".45" font-weight="bold">B</text>
+<!-- Редкие брендовые сигналы: не конкурируют с основными колонками -->
+<text x="22" y="206" fill="#59EDAA" opacity=".16" font-size="12" font-weight="700" letter-spacing="2">BTF</text>
+<text x="232" y="394" fill="#35E6FF" opacity=".13" font-size="11" font-weight="700" letter-spacing="2.5">VPN</text>
+<text x="118" y="610" fill="#59EDAA" opacity=".14" font-size="11" font-weight="700" letter-spacing="2" transform="rotate(-90 118 610)">BTF</text>
+<text x="340" y="286" fill="#59EDAA" opacity=".12" font-size="10" font-weight="700" letter-spacing="2" transform="rotate(90 340 286)">VPN</text>
 </g></svg>
